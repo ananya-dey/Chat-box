@@ -1,0 +1,38 @@
+body{
+	background-image:url('images/1.jpg');
+	font-family:Arial,'Lucida Sans Unicode';
+}
+
+.container{
+	margin-top:150px;	
+}
+
+.form-signin-heading{
+	margin:5% 0 5% 0;	
+}
+
+.modal-header, h4{
+      background-color: #7094DB;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+	  padding:20px 30px;
+}
+
+.modal-body{
+	padding:40px 50px;
+
+}
+
+.close {
+	  float:right;
+}
+
+.modal-footer {
+      background-color: #f9f9f9;
+}
+
+.link{
+	margin-left:30px;
+	padding:3px;
+}
